@@ -2,3 +2,5 @@ hi
 it is a file for test
 
 i want to remove it
+
+new line
